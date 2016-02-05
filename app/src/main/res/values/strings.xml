@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Todo</string>
+    <string name="no_toDos">您目前没有创建ToDo</string>
 </resources>
