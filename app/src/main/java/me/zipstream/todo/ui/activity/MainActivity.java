@@ -2,6 +2,7 @@ package me.zipstream.todo.ui.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Log;
 
 import me.zipstream.todo.R;
 
